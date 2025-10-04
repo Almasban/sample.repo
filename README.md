@@ -1,4 +1,4 @@
 # sample.repo
-This is my repository.
+This is my git repository.
 <br>
-Author - Almas banu
+Author - Almas (Almas banu)
